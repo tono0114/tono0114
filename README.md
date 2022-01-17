@@ -15,7 +15,7 @@
 
 ### 個人開発
 ---
-**[ITUKA](http://ituka-ikitai.com/)**  
+**[ITUKA](https://ituka-ikitai.com/)**  
 >Ruby on Railsで作成しました。  
 >「いつか行きたい」をユーザ同士で共有できるSNSサイトです。  
 >コンセプトは「"行きたい"を力にしてコロナを乗り切ろう！」です。
